@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Descargar Archivo - Sol Argentino TV</title>
+  <link rel="stylesheet" href="satv.css">
+  <link rel="stylesheet" href="descargas.css">
+  <link rel="stylesheet" href="footer.css">
+  <link rel="icon" href="Logo SATV 2024 NAVIDAD.ico" type="image/x-icon">
+</head>
+<body>
+  <!-- Menú superior estilo Win11 -->
+  <header class="header">
+    <div class="menu-container">
+      <h1 class="logo">Descargas - Sol Argentino TV</h1>
+      <div class="desc">
+        <h5>Bienvenido a nuestro sitio web. Aquí podrás acceder a nuestra programación, transmisiones en vivo, noticias, y más.</h5>
+      </div>
+    </div>
+  </header>
+
+  <!-- Contenido principal -->
+  <main class="main-content">
+    <section id="noticias">
+      <h2>Descargas</h2>
+      <p>Encontraste un Easter Egg, este servicio no está disponible por el momento, Estreno: 2025-2017</p>
+    </section>
+  </main>
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Sol Argentino TV - Todos los derechos reservados. Nos actualizamos cada día pensando en vos. <a href="contacto">Contactanos</a></p>
+  </footer>
+</body>
+</html>
